@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "image": "https://i.ibb.co/99hCyrX/hybusa.jpg",
+      "salary": 60000,
+      "company": "ABC Inc.",
+      "title": "Software Engineer"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "image": "https://i.ibb.co/pPpGD4y/2171.png",
+      "salary": 5000,
+      "company": "XYZ Corporation",
+      "title": "Product Manager"
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "image": "https://i.ibb.co/99hCyrX/hybusa.jpg",
+      "salary": 28000,
+      "company": "DEF Ltd.",
+      "title": "Data Scientist"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "image": "https://i.ibb.co/ZTh8Ng0/Pink-Gaming-You-Tube-Channel-Art.png",
+      "salary": 55000,
+      "company": "123 Enterprises",
+      "title": "Marketing Coordinator"
+    },
+    {
+      "id": 5,
+      "name": "David Brown",
+      "image": "https://i.ibb.co/fCBhMzf/4df8b477c1a8c0b960d4dd1fb8e29d32.png",
+      "salary": 90000,
+      "company": "456 Solutions",
+      "title": "Senior UX Designer"
+    }
+  ]
+  
